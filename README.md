@@ -31,7 +31,8 @@ The dataset includes:
    d.Total Quantity Sold
 
 # Methodology
-This project leverages Power BI’s visualization and analytical capabilities:1. Data Cleaning & Preprocessing using Power Query
+This project leverages Power BI’s visualization and analytical capabilities:
+1. Data Cleaning & Preprocessing using Power Query
 Interactive Dashboards & Reports
 
 2.Trend Analysis through visual graphs
