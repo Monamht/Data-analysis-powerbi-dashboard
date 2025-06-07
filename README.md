@@ -32,7 +32,6 @@ The dataset includes:
 
 # Methodology
 This project leverages Power BI’s visualization and analytical capabilities:
-
 1. Data Cleaning & Preprocessing using Power Query
 Interactive Dashboards & Reports
 
